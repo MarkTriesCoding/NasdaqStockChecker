@@ -1,0 +1,17 @@
+.price{
+  
+  margin:auto;
+  margin-top:2em;
+  padding:5px;
+  background-color:grey;
+  color:white;
+  max-width:60%;
+  height:auto;
+  font-weight:bold;
+  border-radius:10px;
+  
+}
+
+.hide{
+  display:none;
+}
